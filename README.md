@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 __В папке с файлом manage.py выполните миграции__:
 ```
-python manage.py migrate
+python manage.py migrate (для Linux и MacOS: python3 manage.py migrate)
 ```
 
 __Запустите проект в dev-режиме__:
